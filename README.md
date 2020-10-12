@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [What is Arquillian](#what-is-arquillian)
 * [Technologies](#technologies)
+* [Configuration](#configuration)
 * [Setup](#setup)
 
 ## General info
