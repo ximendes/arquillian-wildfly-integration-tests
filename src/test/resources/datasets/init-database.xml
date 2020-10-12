@@ -1,0 +1,10 @@
+<dataset>
+    <Pedido id="100" number="XYZ123"/>
+    <Pedido id="200" number="XYZ765"/>
+
+    <Item id="1000" name="Laptop"  pedido_id="100"/>
+    <Item id="1001" name="Smartphone" pedido_id="100"/>
+    <Item id="1002" name="TV"   pedido_id="100"/>
+    <Item id="2000" name="Ipod" pedido_id="200"/>
+    <Item id="2001" name="SmartWatch" pedido_id="200"/>
+</dataset>

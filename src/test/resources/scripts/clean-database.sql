@@ -1,0 +1,2 @@
+DELETE FROM item;
+DELETE FROM pedido;

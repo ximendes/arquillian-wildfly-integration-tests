@@ -1,0 +1,9 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:10-alpine
+    ports:
+      - "5434:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
