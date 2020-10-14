@@ -141,7 +141,7 @@ It is important to keep the same name, because it helps Arquillian to identify t
 To run this project:
 
 ```
-$ git clone git@github.com:ximendes/arquillian-wildfly-integration-tests.git
+$ git clone https://github.com/ximendes/arquillian-wildfly-integration-tests.git
 $ cd arquillian-wildfly-integration-tests
 $ mvn clean install -Pwildfly-managed
 ```
